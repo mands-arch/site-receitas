@@ -1,0 +1,33 @@
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    background: #fad3d3;
+}
+
+
+section, header, footer {
+    margin-bottom: 2rem;
+}
+
+img {
+    border-radius: 10px;
+    position: center;
+}
+a {
+    color: #0e5ec7;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2, h3 {
+    color: #202020;
+}
+
+header img {
+    width: 80%;
+    height: auto;
+    border-radius: 15px;
+}
